@@ -1,5 +1,5 @@
 kextd_patcher
-#############
+=============
 
 kextd_patcher is a python script for patching the `kextd` binary to support loading of unsigned kernel extensions on OS X.
 
